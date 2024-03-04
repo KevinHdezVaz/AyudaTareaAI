@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="16dp"
+    android:background="@color/colorPrimaryDark"
+    tools:ignore="HardcodedText">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+
+        android:id="@+id/imagenHeader"
+        android:src="@drawable/ic_account" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:text="Usuario"
+        android:textColor="@color/white"
+        >
+
+    </TextView>
+
+
+</LinearLayout>

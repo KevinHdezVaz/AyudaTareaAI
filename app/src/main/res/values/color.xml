@@ -12,6 +12,21 @@
     <color name="red">#ff7d7d</color>
     <color name="green">#3cd968</color>
 
+
+
+        <color name="colorTRes">#67ABE1</color>
+        <color name="teal_200">#009688</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="md_grey_600">#757575</color>
+        <color name="md_white_1000">#ffffff</color>
+        <color name="md_black_1000">#000000</color>
+        <color name="md_grey_100">#F5F5F5</color>
+        <color name="md_blue_100">#BBDEFB</color>
+        <color name="purple_200">#545455</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#2B2B2C</color>
+
+
     //You can change Background color
     <color name="bg_color">#f4f4f4</color>
 

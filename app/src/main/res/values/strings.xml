@@ -353,6 +353,10 @@
     <string name="minutein">minuto en </string>
     <string name="let_s_spin" translatable="false">¡Vamos a Girar!</string>
     <string name="play_random_category_with_spin" translatable="false">¡Juega en una Categoría Aleatoria y Pon a Prueba tu Conocimiento!</string>
+    <string name="nav_open">open</string>
 
+    <string name="nav_close">cerrado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

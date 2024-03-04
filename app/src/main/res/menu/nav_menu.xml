@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Acerca">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_acerca"
+                    android:icon="@drawable/ic_account"
+                    android:title="Información" />
+
+            </group>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/navTerminos"
+                    android:icon="@drawable/ic_account"
+                    android:title="Terminos y Condiciones" />
+
+            </group>
+        </menu>
+
+
+    </item>
+    <item android:title="Cursos guardados">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_fav"
+                    android:icon="@drawable/ic_account"
+                    android:title="Favoritos" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Tema">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_night"
+                    android:visible="true"
+                    android:icon="@drawable/ic_account"
+                    android:title="Modo Dark" />
+            </group>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_day"
+                    android:visible="false"
+                    android:icon="@drawable/ic_account"
+                    android:title="Modo Dark" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Compartir App">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_account"
+                    android:title="Compartir" />
+            </group>
+        </menu>
+    </item>
+
+
+
+
+    <item android:title="Combina esta app con:">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_account"
+
+                    android:title="FormuTodo - Fórmulas y Tarea Fácil" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Salir">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/salir"
+                    android:icon="@drawable/ic_account"
+
+                    android:title="Salir" />
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>
