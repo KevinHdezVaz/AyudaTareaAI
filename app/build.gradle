@@ -74,6 +74,8 @@ dependencies {
     })
 
     //kotlin
+    implementation 'com.github.ibrahimsn98:android-particles:2.0'
+
     implementation 'androidx.navigation:navigation-ui-ktx:2.4.0'
     implementation 'androidx.navigation:navigation-fragment-ktx:2.4.0'
     implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.9'

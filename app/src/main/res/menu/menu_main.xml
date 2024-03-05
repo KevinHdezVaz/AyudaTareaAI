@@ -1,25 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/homeFragment"
         android:title="Menú"
         android:enabled="true"
-        android:icon="@drawable/ic_about"/>
+        android:icon="@drawable/ic_about"
+        app:showAsAction="never"/>
 
     <item
-        android:id="@+id/categoriasFragment"
+        android:id="@+id/fotofragment"
         android:title="Categoria"
         android:enabled="true"
-        android:icon="@drawable/ic_about"/>
+        android:icon="@drawable/ic_about"
+        app:showAsAction="never"/>
+
+    <item
+        android:title=""/>
+
+    <item
+        android:id="@+id/fotofragment2"
+        android:title="Categoria"
+        android:enabled="true"
+        android:icon="@drawable/ic_about"
+        app:showAsAction="never"/>
 
 
     <item
-        android:id="@+id/buscarFragment"
-        android:title="Buscar"
+        android:id="@+id/quizactivity"
+        android:title="quiz"
         android:enabled="true"
-        android:icon="@drawable/ic_about"/>
-
-
+        android:icon="@drawable/ic_about"
+        app:showAsAction="never"/>
 
 </menu>

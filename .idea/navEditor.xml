@@ -8,13 +8,25 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
-                  <entry key="homeFragment2">
+                  <entry key="fotofragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-470" />
-                            <option name="y" value="-361" />
+                            <option name="x" value="-421" />
+                            <option name="y" value="-1212" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="homeFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-379" />
+                            <option name="y" value="-458" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -25,13 +37,13 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-163" />
-                            <option name="y" value="-8" />
+                            <option name="x" value="-713" />
+                            <option name="y" value="-465" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_introFragment_to_menuPrincipal">
+                            <entry key="action_introFragment_to_homeFragment2">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -41,13 +53,13 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="menuPrincipal">
+                  <entry key="quizactivity">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="153" />
-                            <option name="y" value="-99" />
+                            <option name="x" value="-746" />
+                            <option name="y" value="-1354" />
                           </Point>
                         </option>
                       </LayoutPositions>
