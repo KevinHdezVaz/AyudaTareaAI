@@ -9,7 +9,8 @@
     <fragment
         android:id="@+id/introFragment"
         android:name="com.hevaz.quizK.ayudaia.intro.IntroFragment"
-        android:label="IntroFragment" >
+        android:label="IntroFragment"
+     >
 
         <action
             android:id="@+id/action_introFragment_to_homeFragment2"

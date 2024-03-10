@@ -427,13 +427,14 @@ public class ProfileActivity extends AppCompatActivity {
         }
     }
 
+    /*
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         if (resultCode == RESULT_OK) {
             if (requestCode == SELECT_FILE) {
                 imageUri = data.getData();
-                CropImage.activity(imageUri)
+                 CropImage.ActivityResult(imageUri)
                         .setGuidelines(CropImageView.Guidelines.ON)
                         .setOutputCompressQuality(90)
                         .setRequestedSize(300, 300)
@@ -460,6 +461,7 @@ public class ProfileActivity extends AppCompatActivity {
             }
         }
     }
+     */
 
     public void setSnackBar() {
         Snackbar snackbar = Snackbar
